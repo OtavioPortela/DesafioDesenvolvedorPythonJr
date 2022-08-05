@@ -12,7 +12,7 @@ def enviar_email(Cliente, vendas, faturamento):
     msg = email.message.Message()
     msg['Subject'] = "Desafio VoceQPad analise de arquivo excel"
     msg['From'] = Segredos.Email
-    msg['To'] = 'otaviodocumentos@gmail.com'
+    msg['To'] = 'xxxxxxxxxxxxxxx'#retirada de email
     password = Segredos.Senha #Senha gerada pelo google
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email )
