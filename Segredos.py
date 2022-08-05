@@ -1,2 +1,2 @@
-Email = 'otavionegocios97@gmail.com'
-Senha = 'vmpyggfwvhsjzptp'
+Email = 'xxxxxxxxxxx'
+Senha = 'xxxxxxxxxxx'
